@@ -108,11 +108,7 @@ public class Start {
 	    }
 	    if (SoundExist.equals(false)) {
     		System.out.println("The sound doesn't exist!");
-    	}
-	    
-	    
-	    //System.out.println("The complete song is " + song.getArrlist());
-	    
+    	}	    
 	}
 
 }
